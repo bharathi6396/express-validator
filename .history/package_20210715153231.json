@@ -1,0 +1,11 @@
+"scripts": {
+  "start": "nodemon index.js --watch .",
+  "test": "echo \"Error: no test specified\" && exit 1"}
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-router": "^0.0.1",
+    "express-validator": "^6.12.0",
+    "nodemon": "^2.0.12",
+    "password-validator": "^5.1.1"
+  }
